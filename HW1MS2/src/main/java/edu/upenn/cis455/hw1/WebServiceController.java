@@ -38,17 +38,29 @@ import edu.upenn.cis455.hw1.MyWebService;
 public class WebServiceController {
     
     static MyWebService theInstance;
+    static boolean running;
 
     // We don't want people to use the constructor
-    protected WebServiceController() {}
+    protected WebServiceController() {
+      running = false;
+    }
+
+    protected static MyWebService getInstanceDontRun() {
+      if (theInstance == null) 
+        theInstance = new MyWebService();
+
+      return theInstance;
+    }
     
     protected static WebService getInstance() {
-        // TODO: get a singletone instance of the WebService from the ServiceFactory
-        if (theInstance == null) {
-          theInstance = new MyWebService();
-          Thread thread = new Thread(theInstance);
-          thread.start();
-        }
+      if (theInstance == null) 
+        theInstance = getInstanceDontRun();
+
+      if (!running) {
+        Thread thread = new Thread(theInstance);
+        thread.start();
+        running = true;
+      }
 
       return theInstance;
     }
@@ -86,32 +98,39 @@ public class WebServiceController {
      * Set the IP address to listen on (default 0.0.0.0)
      */
     public static void ipAddress(String ipAddress) {
-        getInstance().ipAddress(ipAddress);
+      if (running)
+        throw new RuntimeException("ipAddress() must be called before registering any routes!");
+
+      getInstanceDontRun().ipAddress(ipAddress);
     }
     
     public static void port(int port) {
-        getInstance().port(port);
+      if (running)
+        throw new RuntimeException("port() must be called before registering any routes!");
+
+      getInstanceDontRun().port(port);
     }
     
     /**
      * Set the size of the thread pool
      */
     public static void threadPool(int threads) {
-        getInstance().threadPool(threads);
+      if (running)
+        throw new RuntimeException("threadPool() must be called before registering any routes!");
+
+      getInstanceDontRun().threadPool(threads);
     }
     
     /**
-     * Set the root directory of the "static web" files
+     * Set the root directory of the "static web" files. This is essentially the web root
+     * for the MS1 part of your solution. If the application doesn't call this at all,
+     * you should return 404 for any request that isn't handled by a registered route.
      */
     public static void staticFileLocation(String directory) {
-        getInstance().staticFileLocation(directory);
-    }
-    
-    /**
-     * Hold until the server is fully initialized
-     */
-    public static void awaitInitialization() {
-        getInstance().awaitInitialization();
+      if (running)
+        throw new RuntimeException("staticFileLocation() must be called before registering any routes!");
+
+      getInstanceDontRun().staticFileLocation(directory);
     }
     
     /**

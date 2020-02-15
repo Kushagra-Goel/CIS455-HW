@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Sports</title>
+    <link>https://www.nytimes.com/section/sports</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2020 The New York Times Company</copyright>
+    <lastBuildDate>Sat, 04 Apr 2020 01:48:14 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2020 01:48:14 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Sports</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/sports</link>
+    </image>
+    <item>
+      <title>For This N.B.A. Rookie, Reality TV Is an Escape That Feels Like Home</title>
+      <link>https://www.nytimes.com/2020/04/03/sports/basketball/terrace-house-rui-hachimura.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/03/sports/basketball/terrace-house-rui-hachimura.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/03/sports/basketball/terrace-house-rui-hachimura.html" rel="standout"></atom:link>
+      <description>Rui Hachimura, a Washington Wizards forward, has found comfort and meaning in the hit Japanese reality show “Terrace House.”</description>
+      <dc:creator>Scott Cacciola</dc:creator>
+      <pubDate>Fri, 03 Apr 2020 06:55:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reality Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Basketball Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington Wizards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Terrace House (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hachimura, Rui (1998- )</category>
+    </item>
+    <item>
+      <title>U.S. Women’s Open Postponed Until December</title>
+      <link>https://www.nytimes.com/2020/04/03/sports/golf/us-open-postponed-lpga.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/03/sports/golf/us-open-postponed-lpga.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/03/sports/golf/us-open-postponed-lpga.html" rel="standout"></atom:link>
+      <description>The event, originally slated for early June, is the third women’s golf major tournament to be rescheduled. The decision may augur a decision from the U.S. Golf Association on the men’s Open.</description>
+      <dc:creator>Bill Pennington</dc:creator>
+      <pubDate>Fri, 03 Apr 2020 19:38:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Women&#39;s Open (Golf)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Golf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Golf Assn</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/03/sports/03virus-golf/03virus-golf-moth.jpg" width="151"></media:content>
+      <media:credit>Stacy Revere/Getty Images</media:credit>
+      <media:description>Jeongeun Lee, winner of the 2019 United States Women’s Open, after the tournament’s final round.</media:description>
+    </item>
+    <item>
+      <title>European Soccer Teams Get Clarity and a Warning</title>
+      <link>https://www.nytimes.com/2020/04/03/sports/european-soccer-football-canceled.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/03/sports/european-soccer-football-canceled.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/03/sports/european-soccer-football-canceled.html" rel="standout"></atom:link>
+      <description>European soccer leaders have written to teams and leagues to map out a plan to return to action in July and August, warning there would be consequences should leagues abandon seasons unilaterally.</description>
+      <dc:creator>Tariq Panja</dc:creator>
+      <pubDate>Fri, 03 Apr 2020 14:11:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">UEFA Champions League (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Union of European Football Assns (UEFA)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/03/sports/03soccer-warningWEB1/merlin_171218424_6a548307-d505-443a-90b8-82c6a94d8131-moth.jpg" width="151"></media:content>
+      <media:credit>Stephanie Lecocq/EPA, via Shutterstock</media:credit>
+      <media:description>Brugge has been declared the winner of the Belgian league.</media:description>
+    </item>
+    <item>
+      <title>To Safeguard Its Future, Tennis Seeks Unity. Even With the French Open.</title>
+      <link>https://www.nytimes.com/2020/04/03/sports/wimbledon-grand-slams-canceled.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/03/sports/wimbledon-grand-slams-canceled.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/03/sports/wimbledon-grand-slams-canceled.html" rel="standout"></atom:link>
+      <description>As play is delayed to at least mid-July, small tournaments and many players are at risk of significant financial losses, and the French Open’s unilateral rescheduling has added to the chaos.</description>
+      <dc:creator>Christopher Clarey</dc:creator>
+      <pubDate>Fri, 03 Apr 2020 16:37:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wimbledon Tennis Tournament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">French Open (Tennis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/03/sports/02wimbletonfolo-print/02wimbletonfolo-print-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Andrew Redington/Getty Images</media:credit>
+      <media:description>The Wimbledon cancellation on Wednesday made it clear that the rest of the tennis season was in doubt.</media:description>
+    </item>
+    <item>
+      <title>No Live Sports on TV? Consumers Want a Refund</title>
+      <link>https://www.nytimes.com/2020/04/02/sports/no-sports-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/02/sports/no-sports-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/02/sports/no-sports-coronavirus.html" rel="standout"></atom:link>
+      <description>Some providers break out sports fees on bills. With seasons on pause because of the coronavirus, it’s another reminder to customers of what they’re paying for but not getting.</description>
+      <dc:creator>Kevin Draper</dc:creator>
+      <pubDate>Fri, 03 Apr 2020 19:48:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cable Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Comcast Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DAZN Group Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dish Network</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ESPN</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Verizon Communications Inc</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/31/sports/00Virus-Television/00Virus-Television-moth.jpg" width="151"></media:content>
+      <media:credit>Andrea Levy</media:credit>
+    </item>
+    <item>
+      <title>When the Tokyo Olympics Went Missing</title>
+      <link>https://www.nytimes.com/2020/04/02/sports/olympics/coronavirus-olympics-tokyo-delayed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/02/sports/olympics/coronavirus-olympics-tokyo-delayed.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/02/sports/olympics/coronavirus-olympics-tokyo-delayed.html" rel="standout"></atom:link>
+      <description>The 1940 Games, scheduled for Japan, were returned to the I.O.C. because of a war against China and political infighting, rather than a pandemic.</description>
+      <dc:creator>Ken Belson</dc:creator>
+      <pubDate>Thu, 02 Apr 2020 09:00:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (1940)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tokyo (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/03/sports/31JPvirus-olympics1940-print/merlin_170949888_3e00fc98-7080-4873-b275-c16cfb4da4c0-moth.jpg" width="151"></media:content>
+      <media:credit>Noriko Hayashi for The New York Times</media:credit>
+      <media:description>Though different in many ways, the circumstances around the upcoming Tokyo Games echo those from 1940.</media:description>
+    </item>
+    <item>
+      <title>There’s a Pandemic. Is This a Time for Tommy John Surgery?</title>
+      <link>https://www.nytimes.com/2020/04/02/sports/baseball/coronavirus-tommy-john-surgery.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/02/sports/baseball/coronavirus-tommy-john-surgery.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/02/sports/baseball/coronavirus-tommy-john-surgery.html" rel="standout"></atom:link>
+      <description>Decisions to schedule operations for pitchers like Noah Syndergaard of the Mets and Chris Sale of the Red Sox have caused debate.</description>
+      <dc:creator>Tyler Kepner</dc:creator>
+      <pubDate>Thu, 02 Apr 2020 19:01:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Major League Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Injuries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sale, Chris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syndergaard, Noah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boston Red Sox</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Mets</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/03/sports/02kepner-surgeries1-print/merlin_161793375_a75bbcea-8379-48d7-a467-95fcbdbea212-moth.jpg" width="151"></media:content>
+      <media:credit>Kathy Willens/Associated Press</media:credit>
+      <media:description>Mets pitcher Noah Syndergaard had Tommy John surgery on his elbow on March 26. </media:description>
+    </item>
+    <item>
+      <title>‘It’s Just So Devastating’: For Crestfallen Gymnasts, an Olympic Dream Deferred</title>
+      <link>https://www.nytimes.com/2020/04/01/sports/olympics/coronavirus-gymnastics-olympics-tokyo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/01/sports/olympics/coronavirus-gymnastics-olympics-tokyo.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/01/sports/olympics/coronavirus-gymnastics-olympics-tokyo.html" rel="standout"></atom:link>
+      <description>Female gymnasts often compete at younger ages than their Olympic peers and have a far more concentrated opportunity at the top. Into that intense world dropped the coronavirus pandemic.</description>
+      <dc:creator>Juliet Macur</dc:creator>
+      <pubDate>Thu, 02 Apr 2020 15:12:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gymnastics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Olympic and Paralympic Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">USA Gymnastics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biles, Simone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee, Sunisa (2003- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Skinner, MyKayla (1996- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/31/sports/00gymnastics01/00gymnastics01-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Charlie Riedel/Associated Press</media:credit>
+      <media:description>MyKayla Skinner, who was contending for a spot representing the United States during the Tokyo Olympics, said competing in 2021 instead would be challenging mentally, physically and emotionally.</media:description>
+    </item>
+    <item>
+      <title>Wimbledon Canceled: A ‘Kick in the Gut’ Not Felt Since World Wars</title>
+      <link>https://www.nytimes.com/2020/04/01/sports/tennis/wimbledon-canceled-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/01/sports/tennis/wimbledon-canceled-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/01/sports/tennis/wimbledon-canceled-coronavirus.html" rel="standout"></atom:link>
+      <description>With Britain on lockdown, the tournament organizers didn’t see a way to safely reschedule this year.</description>
+      <dc:creator>Christopher Clarey</dc:creator>
+      <pubDate>Thu, 02 Apr 2020 06:05:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wimbledon Tennis Tournament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Serena</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Federer, Roger</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">All England Club</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/01/sports/00wimbledon-1/00wimbledon-1-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Laurence Griffiths</media:credit>
+      <media:description>Novak Djokovic during his victory in the men’s final at Wimbledon in 2019.</media:description>
+    </item>
+    <item>
+      <title>Coronavirus Coping: Novak Djokovic Is Playing Tennis With Frying Pans</title>
+      <link>https://www.nytimes.com/2020/04/02/sports/premier-league-djokovic-enes-kanter-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/02/sports/premier-league-djokovic-enes-kanter-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/02/sports/premier-league-djokovic-enes-kanter-coronavirus.html" rel="standout"></atom:link>
+      <description>Promotion and relegation concerns abound as soccer and rugby leagues consider canceling. In better news, Enes Kanter is cooking up a storm.</description>
+      <dc:creator>Victor Mather</dc:creator>
+      <pubDate>Thu, 02 Apr 2020 22:39:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Djokovic, Novak</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nadal, Rafael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Federer, Roger</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Aston Villa (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">English Premier League</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/21/sports/02no-sports/merlin_170480433_0c3e841c-d0b5-4be9-9a7f-d58bdb868161-moth.jpg" width="151"></media:content>
+      <media:credit>Christopher Furlong/Getty Images</media:credit>
+      <media:description> Liverpool leads the English Premier League by 25 points with nine games to play. The team was seeking its first title since 1990.</media:description>
+    </item>
+    <item>
+      <title>‘It’s a Pretty Big Bummer’: Olympic Dreams on Hold</title>
+      <link>https://www.nytimes.com/video/sports/olympics/100000007065772/coronavirus-2020-olympics-athletes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/sports/olympics/100000007065772/coronavirus-2020-olympics-athletes.html</guid>
+      <atom:link href="https://www.nytimes.com/video/sports/olympics/100000007065772/coronavirus-2020-olympics-athletes.html" rel="standout"></atom:link>
+      <description>The Times asked Olympic and Paralympic athletes from around the world to make videos about the postponed Summer Games, and what life is like stuck at home. Here’s what they told us.</description>
+      <dc:creator>Joe Ward, Bedel Saget, Talya Minsberg and Noah Throop</dc:creator>
+      <pubDate>Fri, 03 Apr 2020 03:30:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paralympic Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tokyo (Japan)</category>
+    </item>
+    <item>
+      <title>The Masters on Halloween? Golf Weighs Tradition Against the Calendar</title>
+      <link>https://www.nytimes.com/2020/04/01/sports/golf/golf-majors-masters-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/01/sports/golf/golf-majors-masters-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/01/sports/golf/golf-majors-masters-coronavirus.html" rel="standout"></atom:link>
+      <description>The five different governing bodies of golf’s most prestigious tournaments are considering unconventional concessions in order to salvage the season.</description>
+      <dc:creator>Bill Pennington</dc:creator>
+      <pubDate>Thu, 02 Apr 2020 19:29:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Golf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">PGA Championship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Golf)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masters Golf Tournament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">British Open (Golf)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PGA Tour Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Professional Golfers Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal and Ancient Golf Club</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Golf Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/03/sports/01JPgolf-pennington-print/01golf-pennington2-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Seth Wenig/Associated Press</media:credit>
+      <media:description>Brooks Koepka after winning the 2019 P.G.A. Championship at the Bethpage Black course on Long Island. This year&amp;rsquo;s tournament, scheduled for May in San Francisco, has been postponed indefinitely.</media:description>
+    </item>
+    <item>
+      <title>‘Boys Are Boys and Girls Are Girls’: Idaho Is First State to Bar Some Transgender Athletes</title>
+      <link>https://www.nytimes.com/2020/04/01/sports/transgender-idaho-ban-sports.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/01/sports/transgender-idaho-ban-sports.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/01/sports/transgender-idaho-ban-sports.html" rel="standout"></atom:link>
+      <description>Student-athletes from elementary school age through college may have to consent to sex testing in order to compete.</description>
+      <dc:creator>Talya Minsberg</dc:creator>
+      <pubDate>Wed, 01 Apr 2020 20:18:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Idaho</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Little, Brad (1954- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ehardt, Barbara D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Certificates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intersex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/30/sports/30trans-idaho/30trans-idaho-moth.jpg" width="151"></media:content>
+      <media:credit>Darin Oswald/Idaho Statesman, via Associated Press</media:credit>
+      <media:description>Gov. Brad Little of Idaho signed the bill into law on Monday.</media:description>
+    </item>
+    <item>
+      <title>N.B.A. Players Miss Other Sports Too</title>
+      <link>https://www.nytimes.com/2020/04/01/sports/basketball/coronavirus-nba-soccer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/01/sports/basketball/coronavirus-nba-soccer.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/01/sports/basketball/coronavirus-nba-soccer.html" rel="standout"></atom:link>
+      <description>In this week’s newsletter, Marc Stein talks to Josh Hart and Larry Nance Jr. about finding a new routine without their day jobs and their other common love: Premier League soccer.</description>
+      <dc:creator>Marc Stein</dc:creator>
+      <pubDate>Wed, 01 Apr 2020 14:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Basketball Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Breen, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nance, Larry Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hart, Josh (1995- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crohn&#39;s Disease</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chelsea (Soccer Team)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/31/sports/31nba-steinnewsletter-lede/merlin_168288180_3f8d2531-57f6-497d-b367-c55d4a964832-moth.jpg" width="151"></media:content>
+      <media:credit>Eric Christian Smith/Associated Press</media:credit>
+      <media:description>New Orleans Pelicans guard Josh Hart is making do without basketball — and his Premier League fantasy team.</media:description>
+    </item>
+    <item>
+      <title>Half the World Is On Lockdown. For Sports? More Like 99 Percent.</title>
+      <link>https://www.nytimes.com/2020/04/03/sports/sumo-cycling-olympics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/03/sports/sumo-cycling-olympics.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/03/sports/sumo-cycling-olympics.html" rel="standout"></atom:link>
+      <description>What follows is the sum total of sporting events being held on our planet. Plus, a really fast cyclist on Zwift.</description>
+      <dc:creator>Victor Mather</dc:creator>
+      <pubDate>Fri, 03 Apr 2020 18:18:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sumo Wrestling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bicycles and Bicycling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Olympic Committee</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/06/sports/06nosports1-print/merlin_170184528_2661db3c-44ee-4497-9023-628708d60e8e-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse, via Jiji Press/Afp Via Getty Images</media:credit>
+      <media:description>Sumo&#39;s spring tournament in Osaka, Japan, began behind closed doors without spectators or the traditional offering of a ladle of water from a winning wrestler to the next one up.</media:description>
+    </item>
+    <item>
+      <title>W.N.B.A. Postpones Start of Season</title>
+      <link>https://www.nytimes.com/2020/04/03/sports/basketball/coronavirus-wnba-season-postponed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/03/sports/basketball/coronavirus-wnba-season-postponed.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/03/sports/basketball/coronavirus-wnba-season-postponed.html" rel="standout"></atom:link>
+      <description>The league had been set to begin play on May 15. It will still hold a “virtual” draft later this month.</description>
+      <dc:creator>The Associated Press</dc:creator>
+      <pubDate>Fri, 03 Apr 2020 16:41:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Women&#39;s National Basketball Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Engelbert, Catherine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/03/sports/03wnba-postponed-lede/merlin_162499407_2a603100-431a-47f9-a3ed-9538946d64fb-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Brandon/Associated Press</media:credit>
+      <media:description>Elena Delle Donne, center, won her first championship with the Mystics last year. With this season delayed, it’s not clear when she will begin her quest for a repeat.</media:description>
+    </item>
+    <item>
+      <title>Arianne Caoili, Chess Master, Is Dead at 33</title>
+      <link>https://www.nytimes.com/2020/04/02/obituaries/arianne-caoili-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/02/obituaries/arianne-caoili-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/02/obituaries/arianne-caoili-dead.html" rel="standout"></atom:link>
+      <description>A former model, she stood out in the chess world for her glamour in what is often thought of as an unglamorous game.</description>
+      <dc:creator>Dylan Loeb McClain</dc:creator>
+      <pubDate>Sat, 04 Apr 2020 00:48:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Caoili, Arianne (1986-2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chess</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Armenia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/03/obituaries/31Caoili/31Caoili-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Paul Harris/Fairfax Media via Getty Images</media:credit>
+      <media:description>The chess master Arianne Caoili in 2002, at the height of her career. She became well known in the insular world of chess.</media:description>
+    </item>
+    <item>
+      <title>Pape Diouf, Former President of Marseille Soccer Club, Dies at 68</title>
+      <link>https://www.nytimes.com/2020/04/02/obituaries/mababa-pape-diouf-dead-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/02/obituaries/mababa-pape-diouf-dead-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/02/obituaries/mababa-pape-diouf-dead-coronavirus.html" rel="standout"></atom:link>
+      <description>Mr. Diouf, who died of the coronavirus, was the first black president of Marseille, a notoriously difficult club to run. He was also a gifted orator and a defender of the club’s passionate fan base.</description>
+      <dc:creator>Tariq Panja</dc:creator>
+      <pubDate>Fri, 03 Apr 2020 23:20:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Diouf, Mababa (1951-2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Marseille (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Senegal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/04/obituaries/01Diouf/01Diouf-moth.jpg" width="151"></media:content>
+      <media:credit>Anne-Christine Poujoulat/Agence France-Presse &amp;mdash; Getty Images</media:credit>
+      <media:description>Mababa Diouf, who was a Senegalese and French citizen, broke through European soccer ranks to become a rare African-born top executive of a major club &amp;mdash; Marseille. He is shown here in 2014.</media:description>
+    </item>
+    <item>
+      <title>Tom Brady Moves Into Derek Jeter&#39;s Tampa Mansion</title>
+      <link>https://www.nytimes.com/2020/04/02/sports/football/derek-jeter-tampa-mansion-tom-brady.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/02/sports/football/derek-jeter-tampa-mansion-tom-brady.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/02/sports/football/derek-jeter-tampa-mansion-tom-brady.html" rel="standout"></atom:link>
+      <description>The home has seven bedrooms, nine bathrooms, two boat lifts and now six Super Bowl rings.</description>
+      <dc:creator>Victor Mather</dc:creator>
+      <pubDate>Thu, 02 Apr 2020 16:06:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jeter, Derek</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brady, Tom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tampa (Fla)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/02/sports/02brady-jeter2/merlin_42972853_97768cbb-c1d4-49a4-9f45-09d991e24c7a-moth.jpg" width="151"></media:content>
+      <media:credit>Chip Litherland for The New York Times</media:credit>
+      <media:description>Derek Jeter’s Tampa estate, photographed in 2011, is reportedly the new stamping grounds of Tampa Bay Buccaneers quarterback Tom Brady.</media:description>
+    </item>
+    <item>
+      <title>Some Alternatives for the Bored Gamer</title>
+      <link>https://www.nytimes.com/2020/04/02/arts/video-games-alternatives-coronavirus-covid-virus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/02/arts/video-games-alternatives-coronavirus-covid-virus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/02/arts/video-games-alternatives-coronavirus-covid-virus.html" rel="standout"></atom:link>
+      <description>Suffering from game burnout? We’ve got suggestions for all types of game enthusiasts.</description>
+      <pubDate>Thu, 02 Apr 2020 20:21:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/27/arts/00gaming-alternatives/00gaming-alternatives-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Kevork Djansezian/Getty Images</media:credit>
+      <media:description>Ugh, Fortnite again?</media:description>
+    </item>
+  </channel>
+</rss>

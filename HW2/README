@@ -1,0 +1,28 @@
+Full name:  Kushagra Goel
+SEAS login: kgoel96
+
+Which features did you implement? 
+  (list features, or write 'Entire assignment')
+  Entire Assignment
+
+Did you complete any extra-credit tasks? If so, which ones?
+  (list extra-credit tasks)
+  None
+
+Any special instructions for building and running your solution?
+	XPathCrawler and XPathApp.
+	Need to add channels using XPathApp and then run XPathCrawler.
+	The channels will be visible after crawling in XPathApp.
+
+Did you personally write _all_ the code you are submitting
+(other than code from the course web page)?
+  [X] Yes
+  [ ] No
+
+Did you copy any code from the Internet, or from classmates?
+  [ ] Yes
+  [X] No
+
+Did you collaborate with anyone on this assignment?
+  [ ] Yes
+  [X] No

@@ -166,4 +166,10 @@ public abstract class Request {
         else
             return cookies().get(name);
     }
+    
+    
+    /**
+     * @return list of * wildcard matches
+     */
+    public abstract List<String> splat();
 }
